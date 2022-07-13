@@ -4,6 +4,7 @@ This is a code created to fill in a form using Python and Selenium, that was the
 The form that is filled by this code is: https://ecommerce-playground.lambdatest.io/index.php?route=account/register
 
 ## Installation
+As a prerequisite for this code, you need:
 1. Download and Install Python
 2. Install Selenium WebDriver
 ```bash
@@ -16,5 +17,7 @@ pip install webdriver-manager
 ```
 
 ## Execution 
-In order to run this code:
- > python main.py
+In order to run this code, please run the command below:
+```bash
+python main.py
+```
