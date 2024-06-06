@@ -11,10 +11,6 @@ As a prerequisite for this code, you need:
 pip install selenium
 ```
 3. Download and Install Visual Studio Code
-4. Install WebDriver Manager for the Python library
-```bash
-pip install webdriver-manager
-```
 
 ## Execution 
 In order to run this code, please run the command below:
